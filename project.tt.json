@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "bookMp",
+  "description": "基于Trao的图书管理系统",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
